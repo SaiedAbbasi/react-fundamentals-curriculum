@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/ReactjsProgram/react-fundamentals-curriculum/issues"
   },
-  "homepage": "https://github.com/ReactjsProgram/react-fundamentals-curriculum#readme"
+  "homepage": "https://github.com/ReactjsProgram/react-fundamentals-curriculum#readme",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.11.1",
+    "html-webpack-plugin": "^2.22.0"
+  }
 }
